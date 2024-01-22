@@ -1,2 +1,4 @@
-# CHAT-ANALYSIS-TOOL
-USE FOR ANALYSIS OF CHAT BETWEEN TWO END USER AND GROUP CHAT
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
